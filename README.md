@@ -1,6 +1,4 @@
 # iCESDuck
-iCESDuck es una placa de programación FPGA basada en el chip ICE40UP5K de Lattice. Diseñada para principiantes, utiliza la herramienta Apio y iDuck-Upload para facilitar el desarrollo de proyectos digitales. Ideal para aprender y experimentar con tecnología FPGA.
-
 iCESDuck es una placa extensible diseñada para la Raspberry Pi, que actúa como una extensión adicional de los GPIO de la misma. Su corazón es un chip FPGA ICE40UP5K de Lattice, que permite un control más preciso y eficiente de diversas acciones gracias a su capacidad de procesamiento en paralelo. Esto proporciona a la Raspberry Pi una mayor libertad operativa, evitando pérdidas de datos y reduciendo discrepancias, ya que las tareas intensivas se manejan de manera independiente, comunicándose con la Raspberry Pi solo cuando es necesario.
 
 La creación de iCESDuck surge de la necesidad de interactuar con la electrónica digital a un nivel más bajo de programación. Esta herramienta física es ideal para una variedad de usos, incluyendo estudios académicos, investigación avanzada o simplemente como un pasatiempo para entusiastas de la tecnología. iCESDuck permite a los usuarios explorar y experimentar con la tecnología FPGA, proporcionando una plataforma versátil y accesible para el desarrollo de proyectos digitales.
